@@ -90,3 +90,4 @@ jobs:
         if: startsWith(github.ref, 'refs/tags/')
         run: |
           npx ovsx publish ovsx-raspberry-pi-pico-*.vsix -p ${{ secrets.OPEN_VSX_PAT }}
+
