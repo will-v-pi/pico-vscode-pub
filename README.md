@@ -1,5 +1,6 @@
 # Raspberry Pi Pico Visual Studio Code extension
 
+
 > **Note: The extension is currently under development.**
 
 This is the official Visual Studio Code extension for Raspberry Pi Pico development. This extension equips you with a suite of tools designed to streamline your Pico projects using Visual Studio Code and the official [Pico SDK](https://github.com/raspberrypi/pico-sdk).
